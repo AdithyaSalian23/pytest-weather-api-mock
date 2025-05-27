@@ -74,7 +74,7 @@ Practice clean, isolated unit testing in Python 🧼
 ---
 
 ## 📜 License
-MIT License
+This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
